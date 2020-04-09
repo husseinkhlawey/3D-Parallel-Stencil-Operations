@@ -1,2 +1,2 @@
 # 3D-Parallel-Stencil-Operations
-Made with Ci++ and Cilk.
+Made with C++ and Cilk.
